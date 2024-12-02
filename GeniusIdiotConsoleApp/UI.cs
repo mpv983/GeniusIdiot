@@ -62,7 +62,7 @@ namespace GeniusIdiotConsoleApp
         }
         public static void ShowResultAsTable(Game game)
         {
-            var userResults = game.UsersResultsStorage.UserResults;
+            var userResults = game.UsersResultsStorage.GetAll();
             if (userResults.Count == 0)
             {
                 Console.WriteLine($"Тест еще никто не решал");

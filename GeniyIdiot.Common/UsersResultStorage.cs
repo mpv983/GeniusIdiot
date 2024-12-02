@@ -1,4 +1,5 @@
-﻿namespace GeniyIdiot.Common
+﻿
+namespace GeniyIdiot.Common
 {
     public class UsersResultStorage
     {
@@ -14,7 +15,7 @@
 
         public List<User> GetAll()
         {
-            if (!System.IO.File.Exists(Path))
+            if (!File.Exists(Path))
             {
                 var nullResult = new List<User>();
                 FileHelper.Write(nullResult);
