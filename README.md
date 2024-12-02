@@ -21,5 +21,11 @@
 WinForms / тест:<br>
 ![Гений идиот](https://github.com/user-attachments/assets/ad88c24a-c797-4f3b-ab63-8962f9fd89bd)
 
+WinForms / меню вопросов и результаты:<br>
+![image](https://github.com/user-attachments/assets/01753971-ebf6-4ad5-a30e-8daab12fc2ca)
+![image](https://github.com/user-attachments/assets/e9b57639-a9ac-4a13-8fb7-fa218ed609eb)
+
+
+
 ## Техническая часть
 
